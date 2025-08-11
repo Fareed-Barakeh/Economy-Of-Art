@@ -1,4 +1,6 @@
-# VALUATION OF ART FEATURES
+# Economy Of Art 
+A data science project exploring how characteristics of artworks and artists influence auction prices. Using a dataset of 37,000+ paintings valued at $9.47B, we analyzed correlations between features such as color brightness and artist nationality with market value. 
+
 
 ## Motivation
 Art has existed since the birth of civilizations. It is also a fascinating cross-cultural study due to the diverse ways each culture has expressed itself — whether through painting, sculpture, performance, or other modes and mediums of expression. An interesting fact is that alphabets are, in part, derived from the pictogram-like paintings of Egyptian hieroglyphs, making art ever-present in our language and daily life.
